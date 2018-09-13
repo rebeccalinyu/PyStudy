@@ -1,0 +1,4 @@
+import nester
+
+cast =['Palin', 'Clesse', 'Idle', 'Jones', 'Gilliam']
+print_log(cast)

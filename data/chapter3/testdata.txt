@@ -1,0 +1,7 @@
+File£ºd:\python\project\data\chapter3\testdata.txt
+
+Rebecca is beautiful£¡
+
+Rebecca is smart£¡
+
+Rebecca is beautiful and smart£¡£¡
